@@ -131,7 +131,7 @@
       "path": "docs/module.demo/nunaliit_module/introduction/type.txt"
    },
    {
-      "digest": "8LO7CqvRTzt7jHJcNtZFKgtOBUo=",
+      "digest": "EocLwToeWOo8tdLhhFlUi7HmQrA=",
       "dir": false,
       "path": "docs/module.demo/nunaliit_module/map.json"
    },
@@ -139,6 +139,11 @@
       "digest": "PsRd7lkhQKX+dXNI1Qr8QUMSv8M=",
       "dir": false,
       "path": "docs/module.demo/nunaliit_module/title.json"
+   },
+   {
+      "digest": "UzQTVBNj/r6PLrto36WlJy5DDEQ=",
+      "dir": false,
+      "path": "docs/module.demo/nunaliit_module/utilities.json"
    },
    {
       "digest": "+9NKK25qn+gWH5fcQ1ZCYJrAvCk=",
@@ -158,6 +163,11 @@
       "digest": "vbpa8sR8wGnpDkeSpC5yUQqyoPI=",
       "dir": false,
       "path": "docs/navigation.demo/nunaliit_navigation.json"
+   },
+   {
+      "digest": "rYMXkkt10Z8HRy1zGBvQphvKSBs=",
+      "dir": false,
+      "path": "docs/navigation.demo/nunaliit_schema.txt"
    },
    {
       "dir": true,
@@ -186,6 +196,34 @@
       "digest": "CBhgD/0OhRYSUjAMCVhQA9Z1adY=",
       "dir": false,
       "path": "docs/org.nunaliit.email_template.daily_vetter/nunaliit_schema.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.form_email"
+   },
+   {
+      "digest": "feuyAswRx5IRMMRrlxPpOmNrPoc=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.form_email/_id.txt"
+   },
+   {
+      "dir": true,
+      "path": "docs/org.nunaliit.email_template.form_email/nunaliit_email_template"
+   },
+   {
+      "digest": "Dp2gD++xxUnqhuie1bsAx4sHrNk=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.form_email/nunaliit_email_template/body.txt"
+   },
+   {
+      "digest": "djmlKlEenCNvxI9ADLiRHKY6QUA=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.form_email/nunaliit_email_template/subject.txt"
+   },
+   {
+      "digest": "CBhgD/0OhRYSUjAMCVhQA9Z1adY=",
+      "dir": false,
+      "path": "docs/org.nunaliit.email_template.form_email/nunaliit_schema.txt"
    },
    {
       "dir": true,
@@ -560,7 +598,7 @@
       "path": "docs/schema.demo_media/create.json"
    },
    {
-      "digest": "pme8dPhaW5pWALu+ByFHnnZlaNw=",
+      "digest": "HjEeWPHx3CfWADb/rWcIuOAyG/k=",
       "dir": false,
       "path": "docs/schema.demo_media/display.txt"
    },
@@ -604,7 +642,7 @@
       "path": "htdocs"
    },
    {
-      "digest": "DD1qDmlFnAF5mbHe7irs+a+EFNQ=",
+      "digest": "6oTsdsdzjIDIuyesVajNbJvAWgs=",
       "dir": false,
       "path": "htdocs/index.html"
    },
